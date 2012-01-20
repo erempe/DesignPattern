@@ -1,6 +1,6 @@
 <?php
 
-namespace PHPDesignPattern;
+namespace pat\DesignPattern;
 
 /**
  *
